@@ -1,0 +1,1 @@
+I completed the capstone project in the Codecademy online platform.
